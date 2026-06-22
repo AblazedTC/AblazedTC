@@ -77,6 +77,7 @@ I build backend systems, API-driven applications, and AI-powered products. CS ju
 ## Featured Projects
 
 ### musicDecoded
+
 > AI-powered music analysis platform
 
 Extracts beats, downbeats, chords, and full song structure from audio using deep learning models. Architected as a multi-platform system — Python backend worker, REST API layer, and an Android mobile app in Kotlin — all within a single monorepo.
@@ -88,6 +89,7 @@ Extracts beats, downbeats, chords, and full song structure from audio using deep
 ---
 
 ### NiCE AI Dashboard
+
 > Full-stack AI interaction intelligence platform
 
 Production-grade full-stack application built during a software engineering internship at NiCE Systems. Delivers real-time analytics, sentiment analysis, audio waveform playback, agent coaching tools, and an evaluation workflow — all through a Next.js dashboard connected to a FastAPI backend service. Deployed to Vercel.
@@ -100,6 +102,7 @@ Production-grade full-stack application built during a software engineering inte
 ---
 
 ### CareRouter
+
 > Hackathon full-stack application
 
 Full-stack application built and shipped during a hackathon sprint. Python backend service paired with a TypeScript frontend, live on Vercel. Built collaboratively with a cross-functional team under time constraints.
@@ -137,6 +140,12 @@ Working through DSA and system design to sharpen interview fundamentals and back
 
 ---
 
+## Certifications
+
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white) Adobe Certified Professional — Premiere Pro
+
+---
+
 ## Leadership & Community
 
 **Software Chair — ColorStack @ KSU**
@@ -147,7 +156,7 @@ Leading technical programming for ColorStack at Kennesaw State University. I run
 
 ## Outside of Code
 
-When I'm not building, I'm usually playing table tennis, taking photos, listening to 80s/90s Japanese music, or grinding something in a fighting game. Also play chess when I want to suffer in a more structured environment.
+I compete in video games at a serious level — I've been regionally ranked, have tournament results over established players, and tend to pick up competitive systems fast across different titles. Outside of that, I do photography and edit videos and photos. I'm Adobe Premiere Pro certified. Also play table tennis, listen to 80s/90s Japanese music, and play chess when I want to suffer in a more structured environment.
 
 ---
 
